@@ -11,8 +11,6 @@ Accident occurred when a worker was feeding paper into a shredder machine and di
 ## Shredder Machine :
 ![alt text](https://github.com/Mann1904/ShredderMachine-Workers-Safety-Project/blob/master/test_images/img1.jpg?raw=true)
 
-## ⌛ Project Demo :
-![Alt text for your video](https://github.com/Mann1904/ShredderMachine-Workers-Safety-Project/blob/master/output%201.gif)
 
 ## ❤️ Owner
 Made with ❤️  by Amber Bagchi
